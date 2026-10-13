@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "32a9da2beb21a19e",
+  "active": "ff4b4a407b0bd4cc",
   "lastOpenFiles": [
     "Blue Prince/Texts/Admin Logs.md",
     "Blue Prince/Texts/Alzara vision.md",
