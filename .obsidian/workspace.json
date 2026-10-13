@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b5baaf10e6d22f95",
+    "type": "split",
+    "children": [
+      {
+        "id": "b047a91bced89acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670309c321e5d435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Dig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dig"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33a8f7e40ebbdc79",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6b3f9cd0f6e64c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff4b4a407b0bd4cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3e8eade4e5c2aac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dirt pile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b6b65d85f07bf60e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2d80ab359f3ac38",
+    "type": "split",
+    "children": [
+      {
+        "id": "84aeb222a23912c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b118ac76009765",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8a0fdb177b57c19c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b223f385e031ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f8b42d3d4665d63",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a7f38de4ee2f1372",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "670309c321e5d435",
+  "lastOpenFiles": [
+    "Blue Prince/Rooms/Aquarium.md",
+    "Images/Pasted image 20261013185212.png",
+    "Misc/Terminal Password.md",
+    "Images/Pasted image 20261013185135.png",
+    "Blue Prince/Rooms/Commissary.md",
+    "Blue Prince/Items/Treasure Map.md",
+    "Misc/Untitled.md",
+    "Images/Pasted image 20261013184712.png",
+    "Blue Prince/Rooms/Library.md",
+    "Images/Pasted image 20261013180851.png",
+    "Blue Prince/Rooms/Classroom.md",
+    "Images/Pasted image 20261013184239.png",
+    "Images/Pasted image 20261013182357.png",
+    "Images/Pasted image 20261013182328.png",
+    "Images/Pasted image 20261013182325.png",
+    "Images/Pasted image 20261013182137.png",
+    "Images/Pasted image 20261013182119.png",
+    "Blue Prince/Rooms/Schoolhouse.md",
+    "Blue Prince/Rooms/The Basement.md",
+    "Coin.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Misc/The Fixed Stars.md",
+    "Blue Prince/Rooms/Darkroom.md",
+    "Blue Prince/Rooms/Workshop.md",
+    "Blue Prince/Rooms/Storeroom.md",
+    "Misc/Fountain.md",
+    "Blue Prince/Rooms/Wine Cellar.md",
+    "Misc/Dig.md",
+    "Blue Prince/Rooms/Passageway.md",
+    "Blue Prince/Items/Lucky Rabbit's Foot.md",
+    "Blue Prince/Rooms/Closet.md",
+    "Blue Prince/Rooms/Pump Room.md",
+    "Blue Prince/Rooms/Boiler Room.md",
+    "Misc/Boiler Room - Interactions.md",
+    "Blue Prince/Rooms/Laundry Room.md",
+    "Blue Prince/Rooms/Furnace.md",
+    "Misc/Drafting Strategy Architectural DIgest (Vol. 3).md"
+  ]
+}

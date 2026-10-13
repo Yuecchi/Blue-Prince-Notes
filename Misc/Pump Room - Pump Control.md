@@ -1,0 +1,7 @@
+- [[Fountain]]
+- [[Resevoir]]
+- [[Aquarium]]
+- [[Kitchen]]
+- [[Greenhouse]]
+- [[The Pool]]
+![[Pasted image 20261013154229.png]]

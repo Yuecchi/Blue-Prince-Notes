@@ -1,0 +1,6 @@
+[[Date]]: September 2 - [[Reddington Herald]]
+PRICELESS JEWELS STOLEN IN DRAMATIC [[ROYAL MUSEUM]] HEIST
+Thieves in the royal capital of [[Fenn Aries]] have broken into one of the Crown's fabled '_closed_' exhibits. These lavish rooms have historically been reserved exclusively for the use of the aristocracy and high peerage, and access has never been granted to thsoe outside noble circles. At least not until today, as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
+The museum authorities said they were alerted in the middle of night by reports of several masked intruders seen breaching the south wall and brandishing firearms. The intruders broke into the museum, subdued the [[Royal Guard]] and disabled the security system. By the time the militia arrived on the scene, the burglars had simply vanished.
+Although an official registry of the lost jewels has not been publicly announced, among the treasured artifacts rumored to be stolen in the renowed [[Ruby Crown]] of [[Orinda Aries]], the priceless crown jewel whose material worth pales in comparison to the historic value. If these rumors are true, the evidence may suggest that the theft was politically motivated.
+![[Pasted image 20261012234551.png]]
