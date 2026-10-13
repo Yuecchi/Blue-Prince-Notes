@@ -19,4 +19,4 @@ Rarity: [[Standard]]
 ![[Pasted image 20261013114211.png]]
 1128
 ![[Pasted image 20261013114544.png]]
-Green memos found in Hartley's room are always false.
+Green memos found in [[Hartley's room]] are always false.

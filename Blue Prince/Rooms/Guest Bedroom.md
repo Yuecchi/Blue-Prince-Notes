@@ -6,7 +6,7 @@ A small bedroom maintained and kept available for accommodating weekend guests a
 Type: [[Blue Prince/Rooms/Bedroom]], [[Dead End]]
 Rarity: [[Commonplace]]
 
-Found items: [[Keycard]], [[Magnifying Glass]]
+Found items: [[Keycard]], [[Magnifying Glass]], [[Compass]]
 
 Found ![[Letter - Guest Bedroom]]
 ## Extra tags:

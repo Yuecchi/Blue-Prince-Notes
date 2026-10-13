@@ -1,15 +1,16 @@
 
 - Find [[Room 46]]
-- Go to a lit up [[Darkroom]] with [[Magnifying Glass]] (need [[Utility Closet]])
-- Send power from the [[Boiler Room]] to the [[Laboratory]]
-- Solve the [[Music Sheet - Workshop]]
+- Find the 3 delisted admin keys for the computer in [[Blackridge Grotto]]
+- Send power from the [[Boiler Room]] to the [[Pump Room]]
+- Collect more Music Sheets (found 5 and 8)
 - Figure out the [[Office safe]] code for the [[Boudoir]]
+	- Find her ladyship's chambers
 - Figure out the [[Office]] [[Office safe]] code
 - Bring [[Key to the Secret Garden]] to the [[Cloister]]
-- Find the [[Terminal Password]] for [[Security]] ([[Magnifying Glass]])
 - Approach [[Chamber of Mirrors]] from another side after drafting it.
-- Find out the current date for the Time-lock safe in the [[Shelter]]
-- Figure out the missing letting pictures puzzle
+- Figure out the missing letter pictures puzzle / find more red letters
+- Unlock [[The Basement]]
+- (Partially) drain the [[Resevoir]] and go down to it (through the [[Tomb]])
 
-Current Coatcheck item: [[Running Shoes]]
+Current Coat check item: [[Treasure Map]]
 Day 10 [[Date]]: Nov 16 1993

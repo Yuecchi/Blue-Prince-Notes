@@ -9,3 +9,4 @@ Rarity: n/a
 ![[Stamp - Entrance Hall]]
 
 ![[Letter - Entrance Hall]]
+![[Letter - Entrance Hall 2]]

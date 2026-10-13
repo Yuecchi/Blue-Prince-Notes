@@ -1,0 +1,3 @@
+
+[[Underground]]
+![[Map - Abandoned Mine]]
