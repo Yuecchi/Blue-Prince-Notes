@@ -1,4 +1,4 @@
-[[Simon]],
+[[Simon P. Jones]],
 Welcome to [[Mount Holly]].
 
 You may not remember but I have fond memories of your many visits here as a young boy and I hope these rooms provide you with as much amusement as it did in those lost summer days.

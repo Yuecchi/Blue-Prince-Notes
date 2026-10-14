@@ -3,7 +3,7 @@
 ## Description
 A very modest recessed space used for storage. This particular closet is favored by the junior members of the [[staff]], who utilize it to stash away assorted articles and knickknacks whose proper place in the estate is yet unknown to them.
 
-Items found: [[Dice]], [[Sledgehammer]], [[Compass]], [[Silver Key]], [[Gem]], [[Shovel]], [[Lucky Rabbit's Foot]]
+Items found: [[Dice]], [[Sledgehammer]], [[Compass]], [[Silver Key]], [[Gem]], [[Shovel]], [[Lucky Rabbit's Foot]], [[Running Shoes]]
 
 
 Type: [[Blueprint]], [[Dead End]]

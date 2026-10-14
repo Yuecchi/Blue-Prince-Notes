@@ -1,7 +1,7 @@
 
 Open only in the event of my death
 ![[Pasted image 20261013204428.png]]
-[[Simon]],
+[[Simon P. Jones]],
 _So here's where it all ends._
 _At least for me._
 

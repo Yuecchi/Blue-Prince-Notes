@@ -5,5 +5,6 @@ Can contain:
 - nothing
 - Turnip (+6)
 - [[Deposit Box Key]]
+- [[Broken Lever]]
 
 ![[Pasted image 20261013165706.png]]

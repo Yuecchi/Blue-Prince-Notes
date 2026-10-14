@@ -1,6 +1,6 @@
 ![[Pasted image 20261013003046.png]]
 ## Notes
-Found: [[Coupon Book]], [[Treasure Map]]
+Found: [[Coupon Book]], [[Treasure Map]], [[Key]]
 Books left to draft: [[Swim Bird]], [[The Fixed Stars]],[[History of Orindia]],
 Books drafted: [[EPCW Pump System User Manual]], [[Drafting Strategy Architectural DIgest (Vol. 3)]], [[Sightseer's guide to reddington]]
 ## Description

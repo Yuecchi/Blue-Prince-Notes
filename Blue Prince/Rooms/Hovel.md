@@ -9,3 +9,5 @@ Rarity: [[Unusual]]
 
 ![[Pasted image 20261013231504.png]]
 ![[Pasted image 20261013231536.png]]
+
+![[Note - Notice Of Termination]]
