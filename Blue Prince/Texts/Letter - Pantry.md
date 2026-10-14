@@ -1,4 +1,4 @@
-[[bridgette]],
+[[Bridgette]],
 Please pick up some more fruit before friday as we have just been informed that we may have an extra guest exploring the house next wee. Fifty steps should be more than enough so I think an even spread would be ideal:
 FIVE [[Apple]]S
 FIVE [[Banana]]S

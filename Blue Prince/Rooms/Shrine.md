@@ -6,3 +6,7 @@ Type: [[Blueprint]], [[Dead End]], [[Outer Room]]
 Rarity: [[Unusual]]
 
 ![[Shine - Offering]]
+
+
+5 [[Gold Coins]]
+![[Pasted image 20261014102246.png|428]]

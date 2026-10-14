@@ -6,6 +6,6 @@ If I can refresh your memory, we both spent much of that evening discussing our 
 Always your friend,
 [[Signature - m. Lawry]]
 
-Written by [[m. Lawry]]
+Written by [[M. Lawry]]
 
 ![[Pasted image 20261012194520.png]]![[Pasted image 20261012194629.png]]

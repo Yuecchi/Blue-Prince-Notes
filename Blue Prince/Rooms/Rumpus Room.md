@@ -9,7 +9,7 @@ Cost: 1 Gem
 Type: [[Blueprint]]
 Rarity: [[Standard]]
 
-![[Alzara vision]]
+![[Alzara vision 1]]
 
 ![[Alzara Vision 2]]
 

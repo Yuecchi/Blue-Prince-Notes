@@ -4,5 +4,6 @@ Can contain:
 - [[Key]]
 - nothing
 - Turnip (+6)
+- [[Deposit Box Key]]
 
 ![[Pasted image 20261013165706.png]]
