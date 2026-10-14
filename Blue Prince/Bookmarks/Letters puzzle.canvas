@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"45eae95feee31fe7","type":"file","file":"Blue Prince/Texts/Note - Study (1).md","x":220,"y":-480,"width":400,"height":400},
+		{"id":"8389d5c63d720118","type":"file","file":"Blue Prince/Texts/Note - Study (2).md","x":160,"y":-8,"width":460,"height":508},
+		{"id":"b24ad0d129ec5485","type":"text","text":"![[Pasted image 20261014124627.png]]","x":-700,"y":-560,"width":495,"height":405},
+		{"id":"73b2444ad8539c23","type":"text","text":"![[Pasted image 20261012220431.png]]","x":-700,"y":-155,"width":415,"height":380},
+		{"id":"cdfef95a6e79915a","type":"text","text":"![[Pasted image 20261013134111.png]]","x":-710,"y":192,"width":425,"height":374},
+		{"id":"ae67f0296cec4052","type":"text","text":"![[Pasted image 20261013174209.png]]","x":-285,"y":35,"width":425,"height":394},
+		{"id":"4e80b350ceb728c5","type":"file","file":"Blue Prince/Collections/Letter puzzle grid.md","x":-185,"y":-547,"width":325,"height":380}
+	],
+	"edges":[]
+}

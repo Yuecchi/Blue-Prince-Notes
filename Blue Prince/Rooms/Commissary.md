@@ -10,5 +10,5 @@ Rarity: [[Standard]]
 
 ![[Red Note - Commissary]]
 ![[Pasted image 20261012220241.png]]
-![[Pasted image 20261012220431.png]]
-![[Pasted image 20261013134111.png]]![[Pasted image 20261013174209.png]]
+![[Pasted image 20261012220431.png]]![[Pasted image 20261013134111.png]]
+![[Pasted image 20261013174209.png]]

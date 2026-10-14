@@ -1,6 +1,6 @@
 ![[Pasted image 20261012200731.png]]
 ## Notes
-
+Found [[The Keeper of Tithes]] by lighting candles.
 ## Description
 A private sacristy, as ornate as the most lavish rooms of the estate, is watched over by eight [[Ajeran Angels]] depicted in stained glass. This room was more a tribute to your uncle's vanity that it was to his faith.
 

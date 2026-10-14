@@ -65,7 +65,7 @@ Another aspect to consider when planning your house is the order in which you dr
 
 [![Foyer.png](https://blueprince.wiki.gg/images/thumb/Foyer.png/200px-Foyer.png?5b830e)](https://blueprince.wiki.gg/wiki/Foyer "Foyer")[![GreatHall.png](https://blueprince.wiki.gg/images/thumb/GreatHall.png/200px-GreatHall.png?d82725)](https://blueprince.wiki.gg/wiki/Great_Hall "Great Hall")
 
-A **[[FOYER]]** drafted before **[[GREAT HALL]]** would mean that all of its many doors would be unlocked.
+A **[[Foyer]]** drafted before **[[GREAT HALL]]** would mean that all of its many doors would be unlocked.
 
 [![Nursery.png](https://blueprince.wiki.gg/images/thumb/Nursery.png/200px-Nursery.png?14121c)](https://blueprince.wiki.gg/wiki/Nursery "Nursery")[![BunkRoom.png](https://blueprince.wiki.gg/images/thumb/BunkRoom.png/200px-BunkRoom.png?5c9b9f)](https://blueprince.wiki.gg/wiki/Bunk_Room "Bunk Room")
 

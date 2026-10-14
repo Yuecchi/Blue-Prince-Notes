@@ -1,10 +1,13 @@
 ![[Pasted image 20261012202921.png]]
 ## Notes
-Found: [[Battery Pack]], [[Sledgehammer]]
+Found: [[Battery Pack]], [[Sledgehammer]], [[Metal Detector]]
 
 Combinations:
+[[Magnifying Glass]] + [[Metal Detector]] = [[Burning Glass]]
+[[Compass]] + [[Battery Pack]] = [[Powered Electromagnet]]
 [[Compass]] + [[Shovel]] = [[Dowsing Rod]]
-[[Shovel]] + [[Broken lever]] + ? = ?
+[[Shovel]] + [[Broken lever]] + [[Battery Pack]] = [[Jack Hammer]]
+[[Metal Detector]] + [[Shovel]] = [[Detector Shovel]]
 [[Sledgehammer]] +[[ Broken lever]] + [[Battery Pack]] = [[Power Hammer]]
 
 ## Description
@@ -17,6 +20,7 @@ Rarity: [[Commonplace]]
 ![[Pasted image 20261012203235.png]]
 ![[Pasted image 20261013175621.png]]
 ![[Pasted image 20261014104709.png]]
+![[Pasted image 20261014163301.png]]
 ![[Music Sheet (8) - Workshop]]
 
 ![[Pasted image 20261012203029.png]]

@@ -16,3 +16,5 @@ Buttons:
 [[Garage]]
 ~~Cabinet~~
 ![[Pasted image 20261012193058.png]]
+
+![[Note - Utility Room Fusebox]]

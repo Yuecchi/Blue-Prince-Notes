@@ -1,11 +1,12 @@
 ![[Pasted image 20261014105915.png]]
-
+## Notes
+Found: [[Key to the Secret Garden]], [[Key]], [[Car Keys]]
 ## Description
 
 A small recital hall providing an ideal setup for musical performers and accompanists. It is not uncommon for at least a few recitals and performances to be held in this intimate setting each year.
 
-Found: [[Key to the Secret Garden]], [[Key]]
-Cost: 2 [[Gem]]s
+
+Cost: 2 Gems
 Type: [[Blueprint]]
 Rarity: [[Unusual]]
 

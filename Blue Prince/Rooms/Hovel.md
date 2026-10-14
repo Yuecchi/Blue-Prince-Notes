@@ -3,7 +3,7 @@
 ## Description
 A squalid dwelling on the edge of the estate belonging to one of the groundskeepers.
 
-Found: 2 [Dig]s
+Found: 2 [[Dig]]s
 Type: [[Bedroom]], [[Dead End]], [[Outer Room]]
 Rarity: [[Unusual]]
 

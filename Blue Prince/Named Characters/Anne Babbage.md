@@ -1,3 +1,8 @@
+House manager
+Disallowed [[Gymnasium]] usage
+Provides us with our allowance
+Head of payroll
+told [[Christoph]] off for taking the car
 
 
-potentially in this picture ![[Picture - Darkroom 3]]
+![[Picture - Darkroom 3]]
