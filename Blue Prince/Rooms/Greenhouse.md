@@ -1,6 +1,6 @@
 ![[img-greenhouse.png]]
 ## Notes
-Found: [[Sledgehammer]], [[Shovel]], 2 Dirt Piles, [[Watering Can]]
+Found: [[Sledgehammer]], [[Shovel]], 2 Dirt Piles, [[Watering Can]], [[Metal Detector]], 3x [[Gem]]
 ## Description
 This room is always warm as its glass walls and roof help to retain the sun’s rays. The gardener, however, should be scolded for the soil here is dry and the flower beds are devoid of all signs of life.
 

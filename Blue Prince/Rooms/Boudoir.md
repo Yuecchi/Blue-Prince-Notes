@@ -2,6 +2,8 @@
 ## Notes
 Contains a [[Office safe]], [[9083]] did not work.
 Found: 3 [[Coin]]s
+
+![[Letter puzzle grid]]
 ## Description
 A private salon with a plethora of fainting couches and chaise longues that served both as a dressing room for her Ladyship in the mornings and a cozy sitting room for her in the evenings.
 

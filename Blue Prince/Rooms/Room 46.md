@@ -5,3 +5,5 @@ The mysterious room mentioned in [[Herbert S. Sinclair]]'s Will, named only by a
 
 Type: [[Blueprint]]. [[Objective]]
 Rarity: [[Rumored]]
+
+![[The true red prince]]

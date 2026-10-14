@@ -7,6 +7,8 @@ Rarity: [[Unusual]]
 
 ![[Shine - Offering]]
 
+3 [[Gold Coins]]
+![[Pasted image 20261014220616.png]]
 
 5 [[Gold Coins]]
 ![[Pasted image 20261014102246.png|428]]
