@@ -11,3 +11,8 @@ Rarity: [[Unusual]]
 
 ![[Pasted image 20261013181231.png]]
 ![[Pasted image 20261013181216.png]]
+
+![[Pasted image 20261014010423.png]]
+![[Pasted image 20261014010435.png]]
+
+![[Pasted image 20261014010500.png]]

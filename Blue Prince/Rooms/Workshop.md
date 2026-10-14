@@ -16,6 +16,6 @@ Rarity: [[Commonplace]]
 ![[Pasted image 20261013003623.png]]![[Pasted image 20261013225616.png]]
 ![[Pasted image 20261012203235.png]]
 ![[Pasted image 20261013175621.png]]
-![[Music Sheet - Workshop]]
+![[Music Sheet (8) - Workshop]]
 
 ![[Pasted image 20261012203029.png]]

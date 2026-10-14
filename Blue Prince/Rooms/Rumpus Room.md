@@ -14,3 +14,5 @@ Rarity: [[Standard]]
 ![[Alzara Vision 2]]
 
 ![[Alzara Vision 3]]
+
+![[Alzara Vision 4]]

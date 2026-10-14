@@ -12,4 +12,4 @@ Rarity: [[Unusual]]
 The [[Broken Lever]] can be used here, in order to gain access to the [[Antechamber]] via
 the southern entrance.
 
-![[Music Sheet - Greenhouse]]
+![[Music Sheet (5) - Greenhouse]]

@@ -1,0 +1,2 @@
+Picture of [[Marion Marigold]], [[Simon]] and [Simon]'s father.
+![[Pasted image 20261014000732.png]]
