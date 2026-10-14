@@ -8,3 +8,12 @@ Type: [[Mechanical]], [[Blueprint]]
 Rarity: [[Unusual]]
 
 ![[Boiler Room - Interactions]]
+
+Conduits:
+- [[Dark Room]]
+- [[Laboratory]]
+- [[Security]]
+- [[Garage]]
+- [[Passageway]]
+- [[Archives]]
+	- 

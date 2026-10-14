@@ -1,6 +1,6 @@
 ![[Pasted image 20261012202921.png]]
 ## Notes
-Found: [[Battery Pack]], [[Sledgehammer]], [[Metal Detector]]
+Found: [[Battery Pack]], [[Sledgehammer]], [[Metal Detector]], [[Broken Lever]]
 
 Combinations:
 [[Magnifying Glass]] + [[Metal Detector]] = [[Burning Glass]]
