@@ -2,7 +2,7 @@
 Dear Uncle([[Herbert S. Sinclair]]),  
   
 
-The disappearance of my cousin Mary([[Mary Jones]]) has long sat unfavorably with me and my father. And I will freely admit to you that the chilly airs of indifference you may have felt in my presence can be attributed entirely to the suspicions that I have harbored for these past years. Suspicions entirely aimed at yourself.
+The disappearance of my cousin [Mary](Mary%20Matthew%20Jones) has long sat unfavorably with me and my father. And I will freely admit to you that the chilly airs of indifference you may have felt in my presence can be attributed entirely to the suspicions that I have harbored for these past years. Suspicions entirely aimed at yourself.
 
 And while I have never had the opportunity to prove it, I felt very strongly that you had some deeper involvement in those events 6 years ago. The circulating rumors of those months did nothing but further reinforce my convictions in this fact.
 

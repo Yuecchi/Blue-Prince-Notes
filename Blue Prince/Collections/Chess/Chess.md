@@ -16,7 +16,9 @@ Pieces which appear in multiple rooms have multiple matching squares.
 
 
 ![[Chessboard]]
-
+![[Chess Piece - Knight]]
+![[Chess Piece - King]]
+![[Chess Piece - Queen]]
 ![[Chess Piece - Bishop]]
 
 ![[Chess Piece - Pawn]]

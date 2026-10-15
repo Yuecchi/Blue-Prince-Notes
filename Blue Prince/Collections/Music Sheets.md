@@ -1,3 +1,5 @@
+first words on the sheets are true message
+Find among the white trees under two stones
 ![[Sheet Music (1) - Music Room]]
 ![[Sheet Music (2) - Music Room]]
 ![[Sheet Music (3) - Music Room]]

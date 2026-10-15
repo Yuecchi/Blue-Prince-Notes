@@ -9,4 +9,4 @@ Rarity: [[Unusual]]
 
 ![[Note - Shelter]]
 
-![[Red Letter - Safe]]
+![[Red Letter - Shelter]]
