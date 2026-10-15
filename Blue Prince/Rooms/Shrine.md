@@ -7,8 +7,15 @@ Rarity: [[Unusual]]
 
 ![[Shine - Offering]]
 
+1 [[Gold Coins]]
+![[Pasted image 20261015170503.png|467]]
+
 3 [[Gold Coins]]
 ![[Pasted image 20261014220616.png]]
 
 5 [[Gold Coins]] (performed twice / light confirmation)
 ![[Pasted image 20261014102246.png|428]]
+
+If you take the gold back
+
+![[Pasted image 20261015170618.png|395]]

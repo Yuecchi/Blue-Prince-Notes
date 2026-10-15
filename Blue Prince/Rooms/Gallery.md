@@ -5,3 +5,11 @@ A small chamber dedicated to the exhibition of art, ideal for showcasing smaller
 
 Type: [[Puzzle]], [[Blueprint]]
 Rarity: [[Rare]]
+
+![[Gallery Puzzle 1]]
+
+![[Gallery Puzzle 2]]
+
+![[Gallery Puzzle 3]]
+
+![[Gallery Puzzle 4]]
