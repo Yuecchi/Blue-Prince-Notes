@@ -1,8 +1,8 @@
 ![[Pasted image 20261013003046.png]]
 ## Notes
 Found: [[Coupon Book]], [[Treasure Map]], [[Key]]
-Books left to draft: [[History of Orindia]],
-Books drafted: [[EPCW Pump System User Manual]], [[Drafting Strategy Architectural DIgest (Vol. 3)]], [[Sightseer's guide to reddington]], [[The Fixed Stars]], [[Swim Bird]]
+Books left to draft: 
+Books drafted: [[EPCW Pump System User Manual]], [[Drafting Strategy Architectural DIgest (Vol. 3)]], [[Sightseer's guide to reddington]], [[The Fixed Stars]], [[Swim Bird]], [[History of Orindia]]
 ## Description
 Two stories of wall-to-wall books surround the reader in this room, exhibiting either a bountiful spring of Knowledge or typical interior design sensibilities of the wealthy. A few books hav ebeen withdrawn from the shelves and placed in rostrum stands in various corners of the library.
 

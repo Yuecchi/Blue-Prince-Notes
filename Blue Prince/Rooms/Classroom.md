@@ -7,11 +7,11 @@ Cost: 1 [[Gem]]
 Type: [[Drafting]], [[Blueprint]], [[Addition]]
 Rarity: [[Unusual]]
 
-![[Pasted image 20261013181848.png]]![[Pasted image 20261013182100.png]]![[Pasted image 20261013182119.png]]![[Pasted image 20261013182137.png]]
+[[Grade 1]]
+[[Grade 2]]
+[[Grade 3]]
 
-![[Pasted image 20261013182328.png]]
+
 
 ![[Pasted image 20261013182357.png]]
 
-Possible Solution?
-![[Pasted image 20261013184239.png]]

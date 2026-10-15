@@ -110,7 +110,7 @@ Speaking of **[[PUMP ROOM]]**, this room controls the water level throughout roo
 - Besides counting as two bedrooms, [[BUNK ROOM]] also counts as two rooms! This will increase the amount of steps granted by [[MASTER BEDROOM]], the amount of gold spread by the [[Tomb]] and the amount of keys found in a [[Servant's Quarters]].
 - Each time you solve a puzzle in [[BILLIARD ROOM]] or [[PARLOR]], the difficulty will increase slightly the next time you draft that room.
 - Just because you didn't find any items in a room when you first explored it, doesn't mean that will be the case the next time you draft it.
-- The day after drafting [[FREEZER]], it enters an automated cooldown refreezing cycle, during which it cannot be drafted for the next 24 hours.
+- The day after drafting [[Freezer]], it enters an automated cooldown refreezing cycle, during which it cannot be drafted for the next 24 hours.
 - If you are stuck or don't know what to do in a specific room, sometimes it is smart to move on. There are multiple ways to solve many of the challenges you will come across, and there is a very good chance you will find a piece of information down the road which may help.
 - When in doubt:
 

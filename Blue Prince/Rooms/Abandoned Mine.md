@@ -1,3 +1,7 @@
+Core: Orinda Aries
+Rays: Train System(?) + Foggy
+Motes: Metropolitan
+Border:
 ![[Pasted image 20261014220223.png]]
 
 ![[Pasted image 20261015141233.png]]
