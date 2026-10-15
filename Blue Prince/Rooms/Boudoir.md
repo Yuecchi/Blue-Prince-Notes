@@ -1,7 +1,7 @@
 ![[Pasted image 20261012204601.png]]
 ## Notes
 Contains a [[Office safe]], [[9083]] did not work.
-Found: 3 [[Coin]]s
+Found: 3 [[Coin]]s, [[Sleep Mask]]
 
 ![[Letter puzzle grid]]
 ## Description
@@ -11,3 +11,6 @@ Type: [[Bedroom]]
 Rarity: [[Standard]]
 
 ![[Pasted image 20261012204635.png]]![[Pasted image 20261012205229.png]]
+Code: 1225 (Christmas)
+
+![[Red Letter 4 - Boudoir]]

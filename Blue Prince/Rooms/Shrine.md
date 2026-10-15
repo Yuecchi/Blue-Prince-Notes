@@ -10,5 +10,5 @@ Rarity: [[Unusual]]
 3 [[Gold Coins]]
 ![[Pasted image 20261014220616.png]]
 
-5 [[Gold Coins]]
+5 [[Gold Coins]] (performed twice / light confirmation)
 ![[Pasted image 20261014102246.png|428]]

@@ -5,6 +5,6 @@ Married in 1951, grew up in [[Featherfall Keep]], since abandoned the keep.
 Lived in the West Wing
 has passed.
 
-![[Picture - her Ladyship]]
+![[Picture - Her Ladyship]]
 
 ![[Pasted image 20261014004210.png]]

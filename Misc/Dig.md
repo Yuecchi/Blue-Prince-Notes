@@ -6,5 +6,6 @@ Can contain:
 - Turnip (+6)
 - [[Deposit Box Key]]
 - [[Broken Lever]]
+- [[Key to the Secret Garden]]
 
 ![[Pasted image 20261013165706.png]]

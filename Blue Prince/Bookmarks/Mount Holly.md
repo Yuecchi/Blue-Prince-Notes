@@ -5,5 +5,5 @@
 [[Shop]]
 [[Red Room]]
 
-[[Outdoor]]: the [[Grounds]]
+[[Outdoor]]: the [[The Grounds]]
 [[Underground]]:

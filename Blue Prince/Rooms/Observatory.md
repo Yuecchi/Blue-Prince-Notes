@@ -15,3 +15,6 @@ Rarity: [[Standard]]
 
 Contains book:![[Books - Observatory]]
 pages 6,9,10,13,14,16,17,18,19 missing
+
+15 stars
+![[Pasted image 20261015144539.png]]

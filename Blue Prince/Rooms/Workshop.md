@@ -9,6 +9,10 @@ Combinations:
 [[Shovel]] + [[Broken lever]] + [[Battery Pack]] = [[Jack Hammer]]
 [[Metal Detector]] + [[Shovel]] = [[Detector Shovel]]
 [[Sledgehammer]] +[[ Broken lever]] + [[Battery Pack]] = [[Power Hammer]]
+[[Lucky Rabbit's Foot]] + [[Coin Purse]] = ?
+[[Compass]] + [[Battery Pack]] = [[Electro Magnet]]
+
+![[Pasted image 20261015124938.png]]
 
 ## Description
 Springs, screws and coils scattered atop the workbench show signs of this room's frequent use. A craftman's studio dedicated to creativity and invention, this room was used by your uncle regularly whenever he needs to fix (_or improve_) a gadget or contraption.

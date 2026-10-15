@@ -16,4 +16,5 @@ Conduits:
 - [[Garage]]
 - [[Passageway]]
 - [[Archives]]
-	- 
+
+![[High Pressure Condenser]]

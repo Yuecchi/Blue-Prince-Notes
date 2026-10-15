@@ -9,7 +9,7 @@ Type: [[Red Room]]
 Rarity: [[Standard]]
 
 ![[Note - Darkroom]]
-![[Picture - her Ladyship]]
+![[Picture - Her Ladyship]]
 ![[Picture - Outside Gate]]
 ![[Picture - Darkroom 1]]
 ![[Picture - Darkroom 2]]
