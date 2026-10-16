@@ -1,3 +1,6 @@
+2 pips below max is too low for the boat. 1 pip below max needed.
+
+
 Connected to the [[Abandoned Mine]]
 
 [[Underground]]

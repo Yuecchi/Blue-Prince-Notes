@@ -3,6 +3,7 @@
 Found: [[Battery Pack]], [[Sledgehammer]], [[Metal Detector]], [[Broken Lever]]
 
 Combinations:
+[[Lock Pick]] + [[Metal Detector]] = [[Pick Sound Amplifier]]
 [[Magnifying Glass]] + [[Metal Detector]] = [[Burning Glass]]
 [[Compass]] + [[Battery Pack]] = [[Powered Electromagnet]]
 [[Compass]] + [[Shovel]] = [[Dowsing Rod]]
