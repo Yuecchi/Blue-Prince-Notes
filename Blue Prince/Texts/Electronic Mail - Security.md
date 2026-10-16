@@ -1,7 +1,7 @@
 
 from: **[[Anne Babbage]]' _>>_ Another Request** >> 07:12 11-05
 
-[[DATE]]: NOV. 5 1986
+[[Date]]: NOV. 5 1986
 
 SUBJECT: Another Request
 
@@ -11,7 +11,7 @@ For my part, I can't understand for the life of me why you and the Baron Continu
 ___
 to: **Anne Babbage' _>>_ Security measures** >> 10:02 01-24
 
-[[DATE]]: JAN. 24 1987
+[[Date]]: JAN. 24 1987
 
 SUBJECT: security measures
 
@@ -24,7 +24,7 @@ As such, we find this room mostly relegated to guest use and given that, an ante
 -[[Kirk Darren]]
 ___
 from: **[[Anne Babbage]]' _>>_ RE: security measures** >> 09…
-[[DATE]]: FEB. 4 1987
+[[Date]]: FEB. 4 1987
 
 RE: security measures
 
@@ -35,7 +35,7 @@ Sorry for the lagging reply, I am still learning how to use this machine. Thanks
 -[[Anne Babbage]]
 ___
 to: **[[Kirk Darren]]' _>>_ Stop recording** >> 8:00 02-10
-[[DATE]]: FEB. 10 1987
+[[Date]]: FEB. 10 1987
 
 SUBJECT: stop recording
 

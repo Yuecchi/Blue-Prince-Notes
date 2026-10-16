@@ -1,7 +1,7 @@
 
 from: **[[chef DeCamp]]** >> **[[Freezer]] access** >> 16:12 04-04
 
-[[DATE]]: APR: 4 1987
+[[Date]]: APR: 4 1987
 
 SUBJECT: freezer access
 
@@ -11,7 +11,7 @@ SUBJECT: freezer access
 ___
 to : **Chef DeCamp** >> **re: freezer access** >> 20:06 04...
 
-[[DATE]]: APR. 5 1987
+[[Date]]: APR. 5 1987
 
 RE: freezer access
 
@@ -23,7 +23,7 @@ In the future, you should try to draft that a bit further away, as the temperatu
 ___
 to: **[H.S.Sinclair](Herbert%20S.%20Sinclair)**>> **Precautions** >> 02:37 08-27
 
-[[DATE]]: AUG. 27 1987
+[[Date]]: AUG. 27 1987
 
 SUBJECT/ Precautions
 
@@ -33,7 +33,7 @@ Baron Sinclair, As we discussed in our meeting earlier this week, we will be sea
 ___
 from: **H.S.Sinclair' _>>_ re: Precautions** >> 17:10 08-31
 
-[[DATE]]: AUG. 31 1987
+[[Date]]: AUG. 31 1987
 
 SUBJECT: RE: Precautions
 

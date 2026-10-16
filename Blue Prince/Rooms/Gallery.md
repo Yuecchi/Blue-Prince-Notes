@@ -6,6 +6,8 @@ A small chamber dedicated to the exhibition of art, ideal for showcasing smaller
 Type: [[Puzzle]], [[Blueprint]]
 Rarity: [[Rare]]
 
+white rug animal
+
 ![[Gallery Puzzle 1]]
 
 ![[Gallery Puzzle 2]]

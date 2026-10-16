@@ -2,7 +2,7 @@ Correspondance between [[Randolph Moore]] more [[Mary Matthew Jones]] after her 
 ___
 from: **[R. Moore](Randolph%20Moore)** >> **stay put** >> 20:40 02-28
 
-[[DATE]]: FEB. 28 1987
+[[Date]]: FEB. 28 1987
 
 SUBJECT: stay put
 
@@ -14,7 +14,7 @@ We just got confirmation from our source that the [[Redguard]] is coming tomorro
 ___
 from: **R. Moore** >> **re: the situation** >> 02:37 02-25
 
-[[DATE]]: FEB. 25 1987
+[[Date]]: FEB. 25 1987
 
 RE: the situation
 
@@ -24,13 +24,13 @@ I have a feeling you all may be taking a boat ride shortly.
 ___
 to: **R. Moore** >> **the situation** >> 11:30 02-23
 
-[[DATE]]: FEB. 23 1987
+[[Date]]: FEB. 23 1987
 
 SUBJECT: the situation
 
 In terms of area, there's not nearly as much room here as I remembered from my youth. If it was just me, I wouldn't mind, but with four of us and the space we are going to need for planning I don't expect this to be a sustainable situation for more than a week. A fortnight at best.
 ___
-[[DATE]]: FEB. 22 1987
+[[Date]]: FEB. 22 1987
 
 RE: electronic mail
 

@@ -1,6 +1,6 @@
 from: **[[Anne Babbage]]** >> **next week** >> 06:12 11-01
 
-[[DATE]]: NOV. 1 1993
+[[Date]]: NOV. 1 1993
 
 SUBJECT: next week
 
@@ -10,7 +10,7 @@ You have not left me any instructions for the following week and you know how mu
 ___
 to: **[[DCPOWER]]** >> **RE: RE: fusebox repair** >> 17:30 10-08
 
-[[DATE]]: OCT. 8 1993
+[[Date]]: OCT. 8 1993
 
 RE: RE: fusebox repair
 
@@ -24,7 +24,7 @@ Thanks for the due diligence on this project.
 ___
 from : **McMcMc** >> **Changes to the Estate** >> 08:43 1....
 
-[[DATE]]: OCT. 7 1993
+[[Date]]: OCT. 7 1993
 
 SUBJECT: ESTATE CHANGES
 
@@ -34,7 +34,7 @@ We just wanted to let you know that the changes you requested to your will have 
 
 ~ [[McGuire]], [[McKinnely]], and [[McDougal]]
 ___
-[[DATE]]: OCT. 5 1993
+[[Date]]: OCT. 5 1993
 
 RE: fusebox repair
 
