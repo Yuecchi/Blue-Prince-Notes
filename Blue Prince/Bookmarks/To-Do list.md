@@ -23,8 +23,6 @@
 - Find the sanctum key in the [[Clock Tower]]
 - Find the sanctum key in the [[Vault]]
 - find the sanctum key "king on his throne"
-- find the sanctum key left be one of your own
-- Use sanctum key from the rank 9 [[Music Room]]
 - find the sanctum key behind the door of eight
 
 Day 10 [[Date]]: Nov 16 1993

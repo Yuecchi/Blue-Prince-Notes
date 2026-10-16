@@ -11,5 +11,5 @@ PLEASE SELECT ONE:
 - [[The Fixed Stars]] - [[Richard Witt]]
 - [[History of Orindia]] - [[Caleb Manning]]
 - [[EPCW Pump System User Manual]]
-- [[Drafting Strategy Architectural DIgest (Vol. 3)]]
+- [[Drafting Strategy Architectural Digest (Vol. 3)]]
 ![[Pasted image 20261013003055.png]]

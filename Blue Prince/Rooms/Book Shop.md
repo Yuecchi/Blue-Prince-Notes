@@ -13,7 +13,7 @@ This cozy little bookstore is often tucked away in the more secluded corners of 
 - [[A New Clue]] (50 [[Gold Coins]])
 - [[The Curse Of Black Bridge]] (40 [[Gold Coins]])
 - [[Realm & Rune]] (20 [[Gold Coins]])
-- [[Drafting Strategy Architectural DIgest (Vol. 4)]] (8 [[Gold Coins]])
+- [[Drafting Strategy Architectural Digest (Vol. 4)]] (8 [[Gold Coins]])
 - [[Drafting Strategy Architectural DIgest (Vol. 5)]] (8 [[Gold Coins]])
 
 ![[Pasted image 20261015143328.png]]
