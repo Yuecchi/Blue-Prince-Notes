@@ -2,6 +2,7 @@
 ## Notes
 Requires [[Terminal Password]]
 Has a [[Computer]]
+![[Pasted image 20261016203107.png]]
 ## Description
 
 Cost: 1 Gem

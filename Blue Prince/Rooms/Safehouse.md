@@ -2,10 +2,11 @@
 ## Description
 Accessed via the [[Resevoir]] tunnel, The Safehouse in which [Mary](Marion%20Marigold) and her band of thieves hid in the days leading up to the heist.
 
+
 ![[Note - Safehouse (1)]]
 
 ![[Photo - Safehouse (1)]]
-
+![[Note - SafeHouse (3)]]
 ![[Pasted image 20261016180732.png]]
 [[Sanctum Key]] left by one of our own
 
