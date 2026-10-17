@@ -1,5 +1,0 @@
-
-MORA JAI 4
-THE WHITE SEA OF YORE
-![[Pasted image 20261012210323.png]]
-![[Pasted image 20261012210329.png]]

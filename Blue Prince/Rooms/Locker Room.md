@@ -9,7 +9,7 @@ Cost: 1 [[Gem]]
 Type: [[Spread]], [[Blueprint]], [[Addition]]
 Rarity: [[Rare]]
 
-![[Pasted image 20261016154342.png]]
-![[Note - Locker Room 1]]
+![[Green Memo - Locker Room (1)]]
+![[Note - Locker Room (1)]]
 
-![[Pasted image 20261016154700.png]]
+![[Note - Locker Room (2)]]

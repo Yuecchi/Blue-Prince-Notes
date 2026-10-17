@@ -5,4 +5,4 @@ Home to several of Sinclair's hunting companions. It can be assumed these friend
 Type: [[Blueprint]], [[Addition]]
 Rarity: [[Standard]]
 
-![[Pasted image 20261015023520.png|658]]
+![[Castle Puzzle - Kennel]]

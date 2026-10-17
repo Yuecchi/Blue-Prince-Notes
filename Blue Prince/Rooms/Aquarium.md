@@ -8,3 +8,14 @@ In addition to having a bouquet of colorful fish swimming within them, each tank
 
 Type: [[Red Room]], [[Green room]], [[Hallway]], [[Bedroom]], [[Shop]], [[Blackprint]], [[Blueprint]]
 Rarity: [[Unusual]]
+
+![[Archives Diorama - Aquarium]]
+
+![[Patio Diorama - Aquarium]]
+
+![[Bedroom Diorama - Aquarium]]
+
+![[Laundry Room Diorama - Aquarium]]
+
+![[Pasted image 20261017142001.png]]
+I'm not sure which room this is, but there also does not appear to be any obvious indicators of any points of interest.

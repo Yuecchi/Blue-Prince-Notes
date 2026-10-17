@@ -22,3 +22,5 @@ Rarity: [[Rare]]
 ![[Pasted image 20261014001837.png]]
 
 ![[Foundation - Elevator Instructions]]
+
+![[Pasted image 20261017123904.png]]

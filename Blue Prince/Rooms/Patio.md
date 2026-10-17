@@ -8,5 +8,7 @@ A roofed outdoor seating area located along the perimeter of the estate. During 
 Type: [[Green room]]
 Rarity: [[Standard]]
 
+![[Patio Diorama - Aquarium]]
+
 ![[Pasted image 20261013113052.png]]
 

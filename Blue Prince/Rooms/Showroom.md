@@ -6,4 +6,4 @@ Cost: 2[[ Gem]]s
 Type: [[Shop]]
 Rarity: [[Rare]]
 
-For Sale: [[Emerald Bracelet]], [[Master Key]], [[Chronograph]], [[Silver Spoon]]
+For Sale: [[Emerald Bracelet]], [[Master Key]], [[Chronograph]], [[Silver Spoon]], [[Moon Pendant]]

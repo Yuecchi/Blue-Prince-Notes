@@ -6,7 +6,7 @@ Past the steps and beyond the grand doors, admission to [[Mount Holly]] is grant
 Type: [[Permanent]], [[Blueprint]]
 Rarity: n/a
 
-![[Stamp - Entrance Hall]]
+![[Mora Jai Stamp - Entrance Hall (1)]]
 
 ![[Letter - Entrance Hall]]
 ![[Letter - Entrance Hall 2]]

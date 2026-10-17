@@ -5,7 +5,7 @@ from: **[[Anne Babbage]]' _>>_ Another Request** >> 07:12 11-05
 
 SUBJECT: Another Request
 
-Mr. [Darren](Kirk%20Darren), If you have any more of those red and blue memo-sheets, the Baron has requested a handful of each for a new project he is working on in the [[clock tower]].
+Mr. [Darren](Kirk%20Darren.md), If you have any more of those red and blue memo-sheets, the Baron has requested a handful of each for a new project he is working on in the [[clock tower]].
 
 For my part, I can't understand for the life of me why you and the Baron Continually insist on on confounding my staff and every other person who just stumbles upon one of your colored memos. I'm not confident confusion is the best security, but it's not my department so I'll leave that up to you and the Baron
 ___

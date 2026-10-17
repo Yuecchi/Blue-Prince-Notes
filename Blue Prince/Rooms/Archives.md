@@ -4,6 +4,7 @@
 ## Description
 Countless shelves of documents and towering file cabinets make this otherwise immense space seem small and cramped. These archives contain almost a century of records and files pertaining to the Sinclair  family's numerous interests, many of which are sealed and unable to be accessed.
 
+Found: Upgrade Disk
 Type: [[Red Room]]
 Rarity: [[Unusual]]
 
@@ -13,3 +14,7 @@ Rarity: [[Unusual]]
 ![[Newspaper- Marigold Drops Publisher]]
 ![[Newspaper - No trace of SYNKA Heiress]]
 ![[Newspaper - Jewels Stolen]]
+
+Located in the locked draw of the archives
+
+![[Birth Certificate - Archives]]

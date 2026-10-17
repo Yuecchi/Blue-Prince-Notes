@@ -21,11 +21,9 @@ Springs, screws and coils scattered atop the workbench show signs of this room's
 Type: [[Mechanical]], [[Blueprint]]
 Rarity: [[Commonplace]]
 
-![[Pasted image 20261013003623.png]]![[Pasted image 20261013225616.png]]
-![[Pasted image 20261012203235.png]]
-![[Pasted image 20261013175621.png]]
-![[Pasted image 20261014104709.png]]
-![[Pasted image 20261014163301.png]]
+![[Pasted image 20261013003623.png]]
+Letters are answers to 44 letter picture puzzle found in the [[Study]]
+
 ![[Music Sheet (8) - Workshop]]
 
 ![[Pasted image 20261012203029.png]]

@@ -4,4 +4,4 @@
 
 ![[Chessboard]]
 
-[[Underground]]
+![[Castle Puzzle - The Precipice]]
