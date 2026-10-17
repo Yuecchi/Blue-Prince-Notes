@@ -1,2 +1,3 @@
-![[Pasted image 20261016181400.png]]
+**![[Pasted image 20261016181400.png]]
 Some details require a [[Magnifying Glass]]
+![[Pasted image 20261017211829.png]]![[Pasted image 20261017212004.png]]![[Pasted image 20261017212047.png]]![[Pasted image 20261017212147.png]]![[Pasted image 20261017212205.png]]![[Pasted image 20261017212230.png]]![[Pasted image 20261017212246.png]]![[Pasted image 20261017212317.png]]![[Pasted image 20261017212328.png]]![[Pasted image 20261017212357.png]]

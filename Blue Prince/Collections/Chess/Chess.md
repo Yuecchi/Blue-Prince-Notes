@@ -13,7 +13,7 @@ Pawn: [[Storeroom]], [[Bedroom]], [[Parlor]], [[Guest Bedroom]], [[Den]], [[
 Bishop: [[Attic]], [[Book Shop]], [[Chapel]]
 Rook: [[Vault]], [[Nook]]
 Knight: [[Observatory]], [[Security]]
-King: [[Office]]
+King: [[Office]], [[Throne Room]]
 Queen: [[Her Ladyship's Chamber]], [[Study]]
 
 Current run: Pawn, Knight, Queen, Rook, Bishop, King

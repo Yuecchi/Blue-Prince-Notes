@@ -6,6 +6,8 @@ This [[Sinclair]] family crypt is as gloomy as it is immense. The true Sinclair 
 
 Type: [[Blueprint]], [[Dead End]], [[Outer Room]]
 Rarity: [[Unusual]]
+![[Note - Tomb 2]]
+
 
 ![[Note - Tomb]]
 

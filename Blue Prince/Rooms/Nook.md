@@ -7,3 +7,5 @@ A snug corner reading room which serves as a quiet, private place for guests to 
 
 Type: [[Blueprint]]
 Rarity: [[Commonplace]]
+
+![[Pasted image 20261017205545.png]]![[Pasted image 20261017205602.png]]
