@@ -9,6 +9,6 @@ Rarity: [[Unusual]]
 
 ![[Note - Mail Room]]
 ![[Note - Utility Room Fusebox 1]]
-![[Fenn Aries Stamp - Mail Room]]
+![[Stamp (Fenn Aries) - Mail Room]]
 ![[Mail - Mail Room]]
 ![[Pasted image 20261013212138.png]]

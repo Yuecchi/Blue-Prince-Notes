@@ -6,13 +6,12 @@
 - Microchips?
 - Buy all the books in the [[Book Shop]]
 	- [[The Curse Of Black Bridge]] (40 gold)
-	- [[A New Clue]] (50 gold)
 	- [[History of Orindia - First Edition]] (50 gold)
 - Smash the wall in the candle room(?) displayed on [[Note - Safehouse (1)]]
 - Come back to the [[Safehouse]] with a [[Magnifying Glass]]
 - Find a way to open [[Her Ladyship's Diary]]
 - Draft a [[Furnace]] nearby a [[Freezer]]
-- Finish the final exam ([[Schoolhouse]])]]
+- Finish the final exam ([[Schoolhouse]])
 - Find the sanctum key in the [[Clock Tower]]
 - Find the sanctum key in the [[Vault]]
 - find the sanctum key "king on his throne"
@@ -20,9 +19,7 @@
 - Figure out more sigils!
 - Read the last page of [[Drafting Strategy Architectural Digest (Vol. 5)]] with the [[Magnifying Glass]]
 - Try the [[Power Hammer]] in the [[Weight Room]]
-- Drain the [[Aquarium]]
 - Light candles in the [[Tomb]] with the [[Burning Glass]]
-- Solve the [CASTLE puzzle](Castle%20Puzzle%20-%20The%20Precipice.md) located in the Chess room in [[The Precipice]]
-- Use the [[File Cabinet Key]] in the [[Archives]]
+- Solve the [[Castle Puzzle]]
 
 Day 10 [[Date]]: Nov 16 1993
