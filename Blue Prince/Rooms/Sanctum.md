@@ -8,3 +8,5 @@ Contains 8 sanctum doors
 ![[Pasted image 20261017133428.png]]
 
 ![[Pasted image 20261017134434.png]]
+
+Pink country is Verra?

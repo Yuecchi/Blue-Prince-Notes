@@ -10,7 +10,7 @@ Rarity: [[Unusual]]
 [[Grade 1]]
 [[Grade 2]]
 [[Grade 3]]
-
+[[Grade 4]]
 
 
 ![[Pasted image 20261013182357.png]]

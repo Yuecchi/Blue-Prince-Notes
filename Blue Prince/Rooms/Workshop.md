@@ -10,7 +10,7 @@ Combinations:
 [[Shovel]] + [[Broken lever]] + [[Battery Pack]] = [[Jack Hammer]]
 [[Metal Detector]] + [[Shovel]] = [[Detector Shovel]]
 [[Sledgehammer]] +[[ Broken lever]] + [[Battery Pack]] = [[Power Hammer]]
-[[Lucky Rabbit's Foot]] + [[Coin Purse]] = ?
+[[Lucky Rabbit's Foot]] + [[Coin Purse]] = [[Lucky Purse]]
 [[Compass]] + [[Battery Pack]] = [[Electro Magnet]]
 
 ![[Pasted image 20261015124938.png]]

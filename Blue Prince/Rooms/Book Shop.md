@@ -9,7 +9,7 @@ This cozy little bookstore is often tucked away in the more secluded corners of 
 
 ## Stock
 
-- [[History of Orindia]] (50 [[Gold Coins]])
+- [[Book - The History of Orindia]] (50 [[Gold Coins]])
 - [[A New Clue]] (50 [[Gold Coins]])
 - [[The Curse Of Black Bridge]] (40 [[Gold Coins]])
 - [[Realm & Rune]] (20 [[Gold Coins]])
