@@ -2,11 +2,7 @@
 - Send power from the [[Boiler Room]] to the [[Laundry Room]]
 - Collect more [[Music Sheets]] (found 1, 2, 3, 4, 5, 6, 7 and 8) / solve their puzzle
 - Microchips! find more places to put them into.
-- Buy all the books in the [[Book Shop]]
-	- [[The Curse Of Black Bridge]] (40 gold)
-	- [[History of Orindia - First Edition]] (50 gold)
 - Come back to the [[Safehouse]] with a [[Magnifying Glass]]
-- read the temperature chart in the [[Laboratory]] with a [[Magnifying Glass]]
 - Find a way to open [[Her Ladyship's Diary]]
 	- diary key is in [[Tomb]]
 - Draft a [[Furnace]] nearby a [[Freezer]]
@@ -18,11 +14,9 @@
 - Figure out more sigils!
 - Read the last page of [[Drafting Strategy Architectural Digest (Vol. 5)]] with the [[Magnifying Glass]]
 - Try the [[Power Hammer]] in the [[Weight Room]]
-- Light candles in the [[Tomb]] with the [[Burning Glass]]
 - Solve the [[Castle Puzzle]]
 - access back side of closed exhibit
 - Check out the new lab experiments
 - Check e-mails again
-- Bring [[Broken Lever]] to [[Casino]]
 
 Day 10 [[Date]]: Nov 16 1993

@@ -1,5 +1,6 @@
 ![[Pasted image 20261013180851.png]]
-
+## Notes
+Found: [[Sledgehammer]], [[Dig]] spot
 ## Description
 Long before Reddington Elementary was opened, school convened in a single small building. As the student body grew over years, the need for separate classrooms for each grade arose and the Mt. Holly schoolhouse was officially closed down.
 

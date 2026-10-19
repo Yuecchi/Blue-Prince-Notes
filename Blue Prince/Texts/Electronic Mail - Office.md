@@ -49,3 +49,6 @@ If this is not the desired functionality, let us know and we will fix it in our 
 ![[Pasted image 20261014205249.png]]
 ![[Pasted image 20261014205214.png]]
 ![[Pasted image 20261014205052.png]]
+
+![[Pasted image 20261019151838.png]]
+![[Pasted image 20261019151922.png]]
