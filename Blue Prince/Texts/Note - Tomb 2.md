@@ -1,7 +1,7 @@
 Oveldajiris,
 Ulelddau, uleldnai, uleldmora.
 Ovulelgift eldhew oviss. Nevdau uldareile.
-Nevdau eldareulu. Ajelbid ulheed eldlor: Uloddiris.
+Nevdau eldareilu. Ajelbid ulheed eldlor: Uloddiris.
 Hew sinclairlu. Hewepsenlu... Forget uldein inn.
 Uldjorjaeri.. Uldarei oviss fennrvo. Uldeinjorovo. 
 Overaja. Oviss nevarei.

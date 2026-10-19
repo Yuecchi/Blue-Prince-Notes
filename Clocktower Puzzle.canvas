@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"67e9f45ff9e31d6f","type":"file","file":"Pasted image 20261019215029.png","x":200,"y":-397,"width":400,"height":306},
+		{"id":"496412caf05ffbfb","type":"file","file":"Pasted image 20261019215758.png","x":-200,"y":-388,"width":399,"height":241},
+		{"id":"9c09443d94999770","type":"file","file":"Pasted image 20261019215104.png","x":-600,"y":-420,"width":400,"height":296},
+		{"id":"478c23e29521629c","type":"file","file":"Pasted image 20261019215120.png","x":-1000,"y":-411,"width":400,"height":287},
+		{"id":"c7cffde926bff9a6","type":"file","file":"Pasted image 20261019215141.png","x":-1400,"y":-416,"width":400,"height":298},
+		{"id":"3c07ea5320ab2108","type":"file","file":"Pasted image 20261019215155.png","x":-1800,"y":-422,"width":400,"height":290},
+		{"id":"746fb0b5b9f93c2b","type":"file","file":"Pasted image 20261019215225.png","x":-2200,"y":-420,"width":400,"height":286},
+		{"id":"3decc2e31e5b4a06","type":"file","file":"Pasted image 20261019215241.png","x":-2600,"y":-427,"width":400,"height":293},
+		{"id":"90000525c4db9a0a","type":"text","text":"7:00","x":-925,"y":-600,"width":250,"height":60},
+		{"id":"afebe42f86b51b88","type":"text","text":"Contains a 7","x":-1725,"y":-65,"width":250,"height":60},
+		{"id":"fa02ddd21828b4c3","type":"text","text":"8:00","x":-525,"y":-600,"width":250,"height":60},
+		{"id":"d63dc9421465a594","type":"text","text":"9:00","x":275,"y":-600,"width":250,"height":60},
+		{"id":"37376c35c82bdb3a","type":"text","text":"8:05, 8:06, 8:55, 8:56","x":-125,"y":-35,"width":250,"height":60},
+		{"id":"b62937aa02bd3608","type":"text","text":"6:00","x":-1340,"y":-607,"width":250,"height":60},
+		{"id":"069b7fca12c31894","type":"text","text":"5:57","x":-1725,"y":-607,"width":250,"height":60},
+		{"id":"552ce3ea8b617e8d","type":"text","text":"8:05","x":-125,"y":-600,"width":250,"height":60},
+		{"id":"01b89e8930ebe4a2","type":"text","text":"5:08","x":-2125,"y":-602,"width":250,"height":50},
+		{"id":"5a2e3fa6b79b0088","type":"text","text":"5:00","x":-2525,"y":-600,"width":250,"height":60}
+	],
+	"edges":[]
+}
