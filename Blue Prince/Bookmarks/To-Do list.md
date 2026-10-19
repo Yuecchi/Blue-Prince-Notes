@@ -23,5 +23,6 @@
 - access back side of closed exhibit
 - Check out the new lab experiments
 - Check e-mails again
+- Bring [[Broken Lever]] to [[Casino]]
 
 Day 10 [[Date]]: Nov 16 1993
