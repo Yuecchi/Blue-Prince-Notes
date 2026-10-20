@@ -8,6 +8,8 @@ Cost: 1 Gem
 Type: [[Blackprint]], [[Addition]]
 Rarity: [[Unusual]]
 
+white boxes: green memos are lies
+
 
 
 ![[Blue Memo - Treasure Trove (2)]]
@@ -19,3 +21,4 @@ Rarity: [[Unusual]]
 ![[Pasted image 20261019095726.png|317]]![[Pasted image 20261019095744.png|319]]<- true
 ![[Pasted image 20261020152813.png|312]]![[Pasted image 20261020152830.png|323]] <- lie
 ![[Pasted image 20261020175033.png|311]]![[Pasted image 20261020175042.png|308]]<- false
+![[Pasted image 20261020204558.png|304]]![[Pasted image 20261020204615.png|346]]

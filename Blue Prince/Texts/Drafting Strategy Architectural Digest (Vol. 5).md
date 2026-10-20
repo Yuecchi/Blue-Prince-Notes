@@ -1,1 +1,8 @@
 ![[Pasted image 20261017110904.png]]![[Pasted image 20261017110914.png]]![[Pasted image 20261017110924.png]]![[Pasted image 20261017110932.png]]![[Pasted image 20261017110942.png]]![[Pasted image 20261017110950.png]]![[Pasted image 20261017111012.png]]![[Pasted image 20261017111028.png]]
+Eligibility: The "Dead End Contest" sweepstates is open to legal residents of FENN ARIES who are at least 12 years of age at time of entry. Employees of DRAFTING, STRATEGY, its affiliates, subsidiaries, advertising and promotion agencies, and their immediate family members and/or those living in the same household of each are not eligible to participate in the sweepstakes
+
+Entry: to enter the sweepstakes player must draft rooms in a single house during a single day. Any number of rooms may be drafted, but only DEAD END rooms drafted during that day will be counted toward the DEAD END tally if the DEAD END tally, exceeds the current record (19). Participant is considered a winner.
+
+PRIZE: the cash prize has an approximate shock value equal to 200 gold, paid out to the winner of sweepstakes in a check equal for the price amount. the trophy of sweepstakes has an approximate shop value of 30 gold. please note the trophy is not composed of real gold, but features a gold-like coating for decorative purposes only. The winner will be notified and recieve their prize by mail no later than 5 days after obtaining the dead-end record. Check mail-room for prize delivery.
+
+ODDS: the odds of winning this contest are not very promising. The architect who set this record was very, very good at drafting, but best of luck regardless.

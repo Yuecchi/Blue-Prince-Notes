@@ -15,3 +15,5 @@ Rarity: n/a
 ![[Pasted image 20261013120400.png]]
 
 ![[Antechamber - Northern Door]]
+![[Pasted image 20261020210449.png]]
+![[Pasted image 20261020210856.png]]

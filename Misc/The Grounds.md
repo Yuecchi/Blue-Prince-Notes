@@ -14,3 +14,4 @@ Points of Interest:
 
 ![[Patent - High Pressure Condenser]]
 ![[Pasted image 20261020162655.png]]
+![[Pasted image 20261020200710.png]]

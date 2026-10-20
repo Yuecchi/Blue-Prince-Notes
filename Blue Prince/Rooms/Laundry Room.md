@@ -9,3 +9,4 @@ Cost: 1 Gem
 Type: [[Shop]], [[Dead End]]
 Rarity: [[Rare]]
 
+![[Pasted image 20261020212524.png]]

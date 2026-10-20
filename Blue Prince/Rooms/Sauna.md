@@ -7,3 +7,5 @@ A traditional wood-lined Corarican style sauna, temperature controlled and excep
 Found: [[Sleep Mask]]
 Type: [[Tomorrow]], [[Blueprint]], [[Dead End]], [[Addition]]
 Rarity: [[Unusual]]
+
+![[Pasted image 20261020205927.png]]

@@ -11,7 +11,7 @@ The squares light up when the pieces are placed on squares which match the rooms
 Chest pieces:
 Pawn: [[Storeroom]], [[Bedroom]], [[Parlor]], [[Guest Bedroom]], [[Den]], [[Drawing Room]], [[Secret Passage]]
 Bishop: [[Attic]], [[Book Shop]], [[Chapel]]
-Rook: [[Vault]], [[Nook]]
+Rook: [[Vault]], [[Nook]], [[Conservatory]]
 Knight: [[Observatory]], [[Security]]
 King: [[Office]], [[Throne Room]]
 Queen: [[Her Ladyship's Chamber]], [[Study]]
