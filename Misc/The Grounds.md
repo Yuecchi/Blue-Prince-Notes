@@ -13,3 +13,4 @@ Points of Interest:
 ![[Foreman's Log 289]]
 
 ![[Patent - High Pressure Condenser]]
+![[Pasted image 20261020162655.png]]

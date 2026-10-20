@@ -7,8 +7,11 @@ A dedicated mailing room in which incoming and outgoing post and packages are so
 Type: [[Tomorrow]], [[Blueprint]], [[Dead End]]
 Rarity: [[Unusual]]
 
+![[Stamp (Arch Aries) - Mail Room]]
 ![[Note - Mail Room]]
 ![[Note - Utility Room Fusebox 1]]
 ![[Stamp (Fenn Aries) - Mail Room]]
 ![[Mail - Mail Room]]
 ![[Pasted image 20261013212138.png]]
+![[Mail - Mail Room (1)]]
+![[Mail - Mail Room (2)]]

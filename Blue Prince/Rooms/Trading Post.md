@@ -6,3 +6,6 @@ An outpost established on the outskirts of Mount Holly in the era before the new
 Found: [[Allowance Token]]
 Type: [[Shop]], [[Dead End]], [[Outer Room]]
 Rarity: [[Unusual]]
+
+
+![[Pasted image 20261020164142.png]]

@@ -11,3 +11,5 @@ Rarity: [[Commonplace]]
 
 
 ![[Portrait - Bedroom]]
+
+![[Pasted image 20261020161348.png]]

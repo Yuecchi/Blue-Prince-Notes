@@ -9,7 +9,7 @@ My current assumption is 6 rooms containing chess pieces must be drafted, and th
 The squares light up when the pieces are placed on squares which match the rooms they appear in on the current blueprint.
 
 Chest pieces:
-Pawn: [[Storeroom]], [[Bedroom]], [[Parlor]], [[Guest Bedroom]], [[Den]], [[Drawing Room]]
+Pawn: [[Storeroom]], [[Bedroom]], [[Parlor]], [[Guest Bedroom]], [[Den]], [[Drawing Room]], [[Secret Passage]]
 Bishop: [[Attic]], [[Book Shop]], [[Chapel]]
 Rook: [[Vault]], [[Nook]]
 Knight: [[Observatory]], [[Security]]
