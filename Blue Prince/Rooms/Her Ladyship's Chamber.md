@@ -19,3 +19,9 @@ Rarity: [[Rare]]
 ![[Pasted image 20261015145532.png]]
 
 ![[Purple Flag - Her Ladyship's Chambers]]
+
+![[Pasted image 20261019223428.png]]
+
+![[Pasted image 20261019223507.png]]![[Pasted image 20261019223538.png]]
+![[Pasted image 20261019223600.png]]![[Pasted image 20261019223632.png]]
+![[Pasted image 20261019223700.png]]![[Pasted image 20261019223722.png]]![[Pasted image 20261019223752.png]]

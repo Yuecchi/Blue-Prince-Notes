@@ -2,8 +2,8 @@ Appears to be a broken rune of Eraja
 
 Society: Poetic
 Border: Violet
+Transportation: Trains
+Weather: Rain
 
 ![[Pasted image 20261014201414.png]]
-
-Transportation: ???
-Weather: ??? (my guess is heat)
+(the rune is upside down)

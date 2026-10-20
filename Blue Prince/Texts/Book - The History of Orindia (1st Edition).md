@@ -59,4 +59,6 @@ For this is, despite everything else, a land rich in history, a land of myth and
 This land is, after all that has happened...
 
 ... still [[Orindia]].![[Pasted image 20261018123806.png]]
-![[Pasted image 20261018123815.png]]![[Pasted image 20261018123825.png]]![[Pasted image 20261018123842.png]]![[Pasted image 20261018123850.png]]![[Pasted image 20261018123857.png]]![[Pasted image 20261018123905.png]]![[Pasted image 20261018123914.png]]![[Pasted image 20261018123924.png]]
+![[Pasted image 20261018123815.png]]![[Pasted image 20261018123825.png]]
+![[Pasted image 20261018123833 1.png]]
+![[Pasted image 20261018123842.png]]![[Pasted image 20261018123850.png]]![[Pasted image 20261018123857.png]]![[Pasted image 20261018123905.png]]![[Pasted image 20261018123914.png]]![[Pasted image 20261018123924.png]]
