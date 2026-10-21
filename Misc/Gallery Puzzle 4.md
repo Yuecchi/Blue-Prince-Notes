@@ -8,21 +8,7 @@
 |  H  |  L  |  T  |  N  |  R  |  S  |  E  |  Z  |
 |  D  |  E  |  R  |  N  |  Y  |  S  |  G  |  H  |
 
-goal sign
-
-GENU WINE
-VERI TABLE
-
-SIGN SUN
-SIGN LIGHT
-
-many eyes
-infinite eyes
-
-EYE
-SIGHT
-LOOK
-VISION
+REALISE
 
 ![[Pasted image 20261015182230.png]]
 ![[Pasted image 20261015182250.png]]

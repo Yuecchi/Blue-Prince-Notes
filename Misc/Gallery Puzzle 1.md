@@ -9,6 +9,7 @@
 |  C  |  E  |  D  |  S  |  T  |  O  |  L  |  U  |
 |  T  |  Y  |  H  |  E  |  S  |  N  |  R  |  K  |
 
+RUMINATE
 
 ![[Pasted image 20261015181556.png]]
 ![[Pasted image 20261015181605.png]]
