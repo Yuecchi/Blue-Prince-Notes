@@ -1,14 +1,14 @@
-- find upgrade disks in [[Mechanarium]] and [[Freezer]]
 - Send power from the [[Boiler Room]] to the [[Sauna]]
 - Microchips! find more places to put them into.
-- Spawn the [[Antechamber]], [[Entrance Hall]] and [[Room 46]] in the outer room
 - Draft a [[Furnace]] nearby a [[Freezer]]
 - Finish the final exam ([[Schoolhouse]])
-- Find the sanctum key in the [[Vault]]. 
-- find the sanctum key behind the door of eight
-- Figure out more sigils!
 - Try the [[Power Hammer]] in the [[Weight Room]]
-- Solve the [[Castle Puzzle]]
 - bring power hammer to [[Greenhouse]]
+- find out how to get the effigy
+- bring the effigy, [[Crown of the Blueprints]] and [[Royal Sceptre]] to the [[Throne Room]]
+- find the underground buried floorplan
+- find out what to do with the picture mary held up
+- ![[Pasted image 20261016211126.png]]
 
+- Finish more trophies
 Day 10 [[Date]]: Nov 16 1993

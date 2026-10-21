@@ -17,3 +17,9 @@ Rarity: n/a
 ![[Antechamber - Northern Door]]
 ![[Pasted image 20261020210449.png]]
 ![[Pasted image 20261020210856.png]]
+![[Pasted image 20261021201305.png]]
+
+Steady is the scepter
+deadly is the stone
+heavy is the crown
+ready is the throne

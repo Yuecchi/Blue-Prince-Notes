@@ -12,3 +12,4 @@ Type: [[Blueprint]]
 Rarity: [[Commonplace]]
 
 ![[Letter - Pantry]]
+![[Pasted image 20261021234243.png]]

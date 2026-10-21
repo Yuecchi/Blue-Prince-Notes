@@ -17,3 +17,11 @@ Rarity: [[Rumored]]
 ![[Pasted image 20261016155317.png]]
 
 ![[The True Red Prince]]
+
+![[Pasted image 20261021215446.png]]
+![[Pasted image 20261021215525.png]]
+![[Pasted image 20261021215831.png]]
+![[Pasted image 20261021220008.png]]
+![[Pasted image 20261021220156.png]]
+![[Pasted image 20261021220334.png]]
+![[Pasted image 20261021220521.png]]

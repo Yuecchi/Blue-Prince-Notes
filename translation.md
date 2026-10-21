@@ -29,7 +29,7 @@ Hew    sinclair lu                     Hew   epsen    lu..                     f
 house sinclair (without you)   house epsen (without you)     forget you  ???   ???.
 
 Uld    jor      jeari..       Uld   arei         ov          iss   Fenn   vo.      Uld  ein  jor     o  vo.          
-you   name (????)..     you   future      toward  ???  Fenn  away.  you ???  name ?   away.
+your   name (????)..     you   future      toward  ???  Fenn  away.  you ???  name ?   away.
 
 Ov         Eraja.   Ov          iss     nev    arei
 toward  Eraja.   toward   ???    new   future

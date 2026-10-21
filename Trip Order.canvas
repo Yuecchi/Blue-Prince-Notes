@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"99e7c0ab1921c030","type":"group","x":640,"y":-180,"width":365,"height":320,"color":"4","label":"Nuance"},
+		{"id":"5e6c2591b09f720e","type":"group","x":-55,"y":-170,"width":360,"height":310,"color":"#eac2ff","label":"Verra"},
+		{"id":"8df1752928e5f554","type":"group","x":280,"y":-170,"width":360,"height":310,"color":"2","label":"Corarica"},
+		{"id":"6edc5711f74b3515","type":"group","x":-1140,"y":-170,"width":360,"height":310,"color":"6","label":"Eraja"},
+		{"id":"acd044a39504b099","type":"group","x":-1500,"y":-170,"width":360,"height":310,"color":"#000000","label":"Orinda Aries"},
+		{"id":"85b2b9aa6a424359","type":"group","x":1005,"y":-170,"width":360,"height":310,"color":"1","label":"Fenn Aries"},
+		{"id":"f2949fd3e7f42a8e","type":"group","x":-780,"y":-170,"width":360,"height":310,"color":"3","label":"Arch Aries"},
+		{"id":"3de17a45d1fea362","type":"group","x":-420,"y":-150,"width":365,"height":290,"color":"#ffffff","label":"Mora Jai"},
+		{"id":"cf27a3abce61aa02","type":"text","text":"After a sea voyage, still has books","x":-395,"y":-140,"width":305,"height":50},
+		{"id":"5a3c399e35d605d6","type":"text","text":"![[Pasted image 20261017231005.png]]","x":-395,"y":-90,"width":320,"height":210,"color":"#ffffff"},
+		{"id":"fd27ef987056629f","type":"text","text":"![[Pasted image 20261021204407.png]]","x":-35,"y":-90,"width":320,"height":210,"color":"#eaacfb"},
+		{"id":"9244e3008354f674","type":"text","text":"after mora jai","x":-20,"y":-150,"width":250,"height":60},
+		{"id":"30b7ebcdf9ee172e","type":"text","text":"After Verra, lost all books","x":300,"y":-150,"width":250,"height":60},
+		{"id":"0442a54a85aaaed0","type":"text","text":"![[Pasted image 20261021173233.png]]","x":300,"y":-90,"width":320,"height":210,"color":"2"},
+		{"id":"606489f387d13b7f","type":"text","text":"![[Pasted image 20261021205414.png]]","x":660,"y":-90,"width":325,"height":210,"color":"4"},
+		{"id":"391d955fa9ac299a","type":"text","text":"After Corarica and Mora Jai","x":698,"y":-160,"width":250,"height":70},
+		{"id":"b9aed2c81a7bdf11","type":"text","text":"very very final destination","x":1025,"y":-150,"width":250,"height":60},
+		{"id":"802dd6f30484ed3d","type":"text","text":"![[Pasted image 20261016181607.png]]","x":1025,"y":-90,"width":320,"height":210,"color":"1"},
+		{"id":"7b3dc9fcf63f2701","type":"text","text":"sailed here, would be convenient if rails went north","x":-760,"y":-150,"width":320,"height":60},
+		{"id":"048379e32808696a","type":"text","text":"![[Pasted image 20261021135303.png]]","x":-760,"y":-90,"width":320,"height":210,"color":"3"},
+		{"id":"ee1fc6a8e7ef81ae","type":"text","text":"![[Pasted image 20261019230730.png]]","x":-1120,"y":-90,"width":320,"height":210,"color":"#6800ad"},
+		{"id":"58b030b4e3ec1d96","type":"text","text":"goodbye Yenna, yenna might be nuance?","x":-1120,"y":-150,"width":250,"height":60},
+		{"id":"c5657cc48a96c9a6","type":"text","text":"The first destination, south after","x":-1480,"y":-150,"width":280,"height":60},
+		{"id":"a6215aca13163b2f","type":"text","text":"![[Pasted image 20261015222305.png]]","x":-1480,"y":-90,"width":320,"height":210,"color":"#000000"},
+		{"id":"c1e69a771af03dda","x":-386,"y":-1120,"width":1046,"height":744,"type":"text","text":"![[Pasted image 20261018001632.png]]"}
+	],
+	"edges":[
+		{"id":"365baffdbfa9091b","fromNode":"a6215aca13163b2f","fromSide":"bottom","toNode":"6edc5711f74b3515","toSide":"bottom"},
+		{"id":"7e1afd766fe7dfa1","fromNode":"6edc5711f74b3515","fromSide":"bottom","toNode":"f2949fd3e7f42a8e","toSide":"bottom"},
+		{"id":"8d705ec024e31a51","fromNode":"f2949fd3e7f42a8e","fromSide":"bottom","toNode":"3de17a45d1fea362","toSide":"bottom"},
+		{"id":"fee36a60b5a913c3","fromNode":"3de17a45d1fea362","fromSide":"bottom","toNode":"5e6c2591b09f720e","toSide":"bottom"},
+		{"id":"4c36ae6007aae3e3","fromNode":"5e6c2591b09f720e","fromSide":"bottom","toNode":"8df1752928e5f554","toSide":"bottom"},
+		{"id":"a266d05bbe4618e7","fromNode":"8df1752928e5f554","fromSide":"bottom","toNode":"99e7c0ab1921c030","toSide":"bottom"},
+		{"id":"b16c4dd1bdc79321","fromNode":"99e7c0ab1921c030","fromSide":"bottom","toNode":"85b2b9aa6a424359","toSide":"bottom"}
+	]
+}

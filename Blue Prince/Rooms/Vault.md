@@ -12,6 +12,10 @@ Key 233: Fenn Aries passport
 
 Key 304:
 ![[Pasted image 20261020193535.png]]
+Key 149:
+![[Pasted image 20261021133618.png]]
+Key 370:
+![[Pasted image 20261021142957.png]]
 ## Description
 A Secure onsite depository fitted with steel walls and numbered lockers. This fortified strongroom holds a good portion of the Sinclair fortune despite the fact that several inventories have led accountants to assume the true legacy is hidden elsewhere.
 

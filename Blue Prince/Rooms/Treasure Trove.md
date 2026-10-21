@@ -8,6 +8,7 @@ Cost: 1 Gem
 Type: [[Blackprint]], [[Addition]]
 Rarity: [[Unusual]]
 
+![[Pasted image 20261021201316.png]]
 white boxes: green memos are lies
 
 
@@ -22,3 +23,5 @@ white boxes: green memos are lies
 ![[Pasted image 20261020152813.png|312]]![[Pasted image 20261020152830.png|323]] <- lie
 ![[Pasted image 20261020175033.png|311]]![[Pasted image 20261020175042.png|308]]<- false
 ![[Pasted image 20261020204558.png|304]]![[Pasted image 20261020204615.png|346]]
+![[Pasted image 20261021153614.png|298]]![[Pasted image 20261021153625.png|351]]
+![[Pasted image 20261021200258.png|298]]![[Pasted image 20261021200307.png|350]]
