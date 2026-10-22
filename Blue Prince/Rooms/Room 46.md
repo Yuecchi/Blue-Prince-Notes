@@ -20,6 +20,7 @@ Rarity: [[Rumored]]
 
 ![[Pasted image 20261021215446.png]]
 ![[Pasted image 20261021215525.png]]
+![[Will]]
 ![[Pasted image 20261021215831.png]]
 ![[Pasted image 20261021220008.png]]
 ![[Pasted image 20261021220156.png]]

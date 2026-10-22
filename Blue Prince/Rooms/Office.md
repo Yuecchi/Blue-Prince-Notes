@@ -11,3 +11,5 @@ Rarity: [[Standard]]
 
 ![[Note - Office]]
 ![[Note - Office 2]]
+
+![[Pasted image 20261022114755.png]]

@@ -7,6 +7,7 @@
 - find the underground buried floorplan. Magnifying glass on the underground map?
 - clear the crates in the tunnels
 - find the blue door(s)
+- collect more [[Blue Tents]] notes
 
 - Finish more trophies
 Day 10 [[Date]]: Nov 16 1993

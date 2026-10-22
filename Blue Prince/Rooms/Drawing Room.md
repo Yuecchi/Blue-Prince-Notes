@@ -8,3 +8,5 @@ A social sitting room adorned wall to wall with artwork and drawings. An unfinis
 Cost: 1 Gem
 Type: [[Drafting]], [[Blueprint]]
 Rarity: [[Commonplace]]
+
+![[Pasted image 20261022114547.png]]
