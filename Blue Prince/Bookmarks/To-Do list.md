@@ -4,11 +4,9 @@
 - Finish the final exam ([[Schoolhouse]])
 - Try the [[Power Hammer]] in the [[Weight Room]]
 - bring power hammer to [[Greenhouse]]
-- find out how to get the effigy
-- bring the effigy, [[Crown of the Blueprints]] and [[Royal Sceptre]] to the [[Throne Room]]
-- find the underground buried floorplan
-- find out what to do with the picture mary held up
-- ![[Pasted image 20261016211126.png]]
+- find the underground buried floorplan. Magnifying glass on the underground map?
+- clear the crates in the tunnels
+- find the blue door(s)
 
 - Finish more trophies
 Day 10 [[Date]]: Nov 16 1993
