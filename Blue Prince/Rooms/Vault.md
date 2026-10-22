@@ -24,3 +24,4 @@ Type: [[Blueprint]], [[Dead End]]
 Rarity: [[Rare]]
 
 ![[Chess Piece - Rook]]
+![[Pasted image 20261022151453.png]]

@@ -10,7 +10,7 @@ Points of Interest:
 
 ![[4 digit combination lock]]
 
-![[Foreman's Log 289]]
+![[Blue Prince/Collections/Foreman's Logs/Foreman's Log 289]]
 
 ![[Patent - High Pressure Condenser]]
 ![[Pasted image 20261020162655.png]]

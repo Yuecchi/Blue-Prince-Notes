@@ -10,4 +10,5 @@ Type: [[Blueprint]], [[Dead End]]
 Rarity: [[Unusual]]
 
 1213
-![[Pasted image 20261013212802.png]]
+![[Pasted image 20261013212802.png|535]]
+![[Pasted image 20261022152237.png|536]]

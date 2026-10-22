@@ -18,3 +18,5 @@ Conduits:
 - [[Archives]]
 
 ![[High Pressure Condenser]]
+
+![[Pasted image 20261022155921.png]]

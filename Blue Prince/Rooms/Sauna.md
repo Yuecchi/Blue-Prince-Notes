@@ -9,3 +9,4 @@ Type: [[Tomorrow]], [[Blueprint]], [[Dead End]], [[Addition]]
 Rarity: [[Unusual]]
 
 ![[Pasted image 20261020205927.png]]
+![[Pasted image 20261022170451.png]]

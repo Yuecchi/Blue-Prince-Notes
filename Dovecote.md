@@ -12,3 +12,4 @@ Rarity: [[Unusual]]
 ![[Pasted image 20261020194325.png]]
 ![[Pasted image 20261020194406.png]]
 ![[Pasted image 20261020194556.png|490]]![[Pasted image 20261020194602.png]]Satellite Dish
+![[Pasted image 20261022165711.png]]

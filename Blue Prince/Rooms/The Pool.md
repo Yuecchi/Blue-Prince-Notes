@@ -7,3 +7,4 @@ Type: [[Drafting]], [[Blueprint]]
 Rarity: [[Standard]]
 
 ![[The Pool - Drafting Rules]]
+![[Pasted image 20261022125745.png]]

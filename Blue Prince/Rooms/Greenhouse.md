@@ -13,3 +13,7 @@ The [[Broken Lever]] can be used here, in order to gain access to the [[Antecham
 the southern entrance.
 
 ![[Music Sheet (5) - Greenhouse]]
+
+![[Pasted image 20261022163643.png]]
+![[Book - The original Gardener's Logbook]]
+

@@ -9,3 +9,6 @@ A floorplan so secretive it had been removed from the drafting pool to avoid any
 
 Type: [[Spread]], [[Green room]]
 Rarity: [[Rare]]
+
+![[Pasted image 20261022165305.png]]
+![[Pasted image 20261022165812.png]]

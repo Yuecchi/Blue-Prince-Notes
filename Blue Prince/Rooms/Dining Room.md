@@ -7,3 +7,5 @@ An intimate and warm room with a large dining table boasting a serving tray with
 Found: [[Salt Shaker]]
 Type: [[Blueprint]]
 Rarity: [[Standard]]
+
+**![[Pasted image 20261022165350.png]]

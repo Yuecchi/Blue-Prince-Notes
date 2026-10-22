@@ -14,4 +14,4 @@ Rarity: [[Rare]]
 
 ![[Pasted image 20261015015632.png]]
 
-![[Chess Piece - Bishop]]
+![[Chess Piece - Bishop]]![[Pasted image 20261022172739.png]]

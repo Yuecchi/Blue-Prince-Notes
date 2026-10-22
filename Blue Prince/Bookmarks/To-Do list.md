@@ -8,6 +8,8 @@
 - clear the crates in the tunnels
 - find the blue door(s)
 - collect more [[Blue Tents]] notes
+- collect the upgrade disk from [[Lost & Found]]
+- Switch to Knight for [[Armory]]
 
 - Finish more trophies
 Day 10 [[Date]]: Nov 16 1993

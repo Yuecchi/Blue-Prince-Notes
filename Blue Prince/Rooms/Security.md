@@ -14,3 +14,5 @@ Rarity: [[Standard]]
 ![[Red Note - Security]]
 ![[Pasted image 20261012215144.png]]
 ![[Pasted image 20261012215513.png]]
+
+![[Pasted image 20261022154917.png]]

@@ -13,3 +13,4 @@ Note: ![[Note - Conference room]]
 ![[Pasted image 20261012202652.png]]
 
 ![[Pasted image 20261012202744.png]]
+![[Pasted image 20261022173017.png]]

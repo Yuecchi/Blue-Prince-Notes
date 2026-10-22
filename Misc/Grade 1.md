@@ -3,3 +3,4 @@ SOLUTION:
 
 ![[Pasted image 20261013181848.png]]![[Pasted image 20261013182100.png]]
 ![[Pasted image 20261013182119.png]]![[Pasted image 20261013182137.png]]
+![[Pasted image 20261022152054.png]]

@@ -28,3 +28,5 @@ Rarity: [[Unusual]]
 [[Mail - Mail Room (14)]]
 [[Mail - Mail Room (15)]]
 [[Mail - Mail Room (16)]]
+
+![[Pasted image 20261022134920.png]]

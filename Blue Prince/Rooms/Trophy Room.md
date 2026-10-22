@@ -7,3 +7,5 @@ The polished brass of the treasured laurels filling the trophy cases of this roo
 Cost: 5 gems
 Type: [[Blueprint]]
 Rarity: [[Rare]]
+
+![[Pasted image 20261022172522.png]]

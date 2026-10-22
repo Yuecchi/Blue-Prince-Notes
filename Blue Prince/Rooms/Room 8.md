@@ -4,3 +4,5 @@ Unsurprisingly, Key 8 unlocked a door leading to a familiar looking room, a cryp
 
 **TYPE:** [[Puzzle]], [[Blueprint]]  
 **RARITY:** [[Rare]]  
+
+![[Pasted image 20261022145705.png]]

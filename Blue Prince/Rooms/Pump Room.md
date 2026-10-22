@@ -12,3 +12,4 @@ Rarity: [[Unusual]]
 Providing power from the [[Boiler Room]] provides access to the reserve tank. The reserve tank allows you to move water between itself and tank 1, and is required to fully drain [[The Pool]] and the the [[Resevoir]].
 
 ![[Pasted image 20261015184948.png]]
+![[Pasted image 20261022173415.png]]

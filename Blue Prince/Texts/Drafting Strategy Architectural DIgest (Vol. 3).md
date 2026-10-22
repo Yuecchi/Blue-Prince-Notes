@@ -73,7 +73,7 @@ Drafting **[[BUNK ROOM]]** after **[[NURSERY]]** will give you 10 extra steps be
 
 [![Office.png](https://blueprince.wiki.gg/images/thumb/Office.png/200px-Office.png?e2ccb3)](https://blueprince.wiki.gg/wiki/Office "Office")[![ConferenceRoom.png](https://blueprince.wiki.gg/images/thumb/ConferenceRoom.png/200px-ConferenceRoom.png?659683)](https://blueprince.wiki.gg/wiki/Conference_Room "Conference Room")
 
-You won't have to backtrack constantly to collect your gold spread from **[[OFFICE]]**, if you draft a **[[CONFERENCE ROOM]]**.
+You won't have to backtrack constantly to collect your gold spread from **[[OFFICE]]**, if you draft a **[[Conference Room]]**.
 
 [![Attic.png](https://blueprince.wiki.gg/images/thumb/Attic.png/200px-Attic.png?5bac23)](https://blueprince.wiki.gg/wiki/Attic "Attic")[![Workshop.png](https://blueprince.wiki.gg/images/thumb/Workshop.png/200px-Workshop.png?d2c270)](https://blueprince.wiki.gg/wiki/Workshop "Workshop")
 
