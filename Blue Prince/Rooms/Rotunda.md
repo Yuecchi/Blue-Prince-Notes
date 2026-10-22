@@ -7,3 +7,4 @@ A circular chamber with a domed ceiling adorned with an array of mechanical gear
 Cost: 3 Gems
 Type: [[Blueprint]]
 Rarity: [[Rare]]
+![[Pasted image 20261022204335.png]]

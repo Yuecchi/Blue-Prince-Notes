@@ -6,3 +6,13 @@ Dedicated to deep freeze and cold storage, Mt. Holly's freezer is an insulated s
 
 Type: [[Tomorrow]], [[Blueprint]], [[Dead End]]
 Rarity: [[Rare]]
+
+![[Pasted image 20261022200954.png]]
+![[Pasted image 20261022203548.png]]
+![[Pasted image 20261022214649.png]]
+
+![[Pasted image 20261022214656.png]]
+![[Pasted image 20261022214737.png]]
+![[Pasted image 20261022214814.png]]
+![[Pasted image 20261022214841.png]]
+![[Pasted image 20261022214944.png]]

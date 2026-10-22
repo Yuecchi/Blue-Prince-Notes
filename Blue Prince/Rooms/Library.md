@@ -12,3 +12,4 @@ Rarity: [[Unusual]]
 ![[Note - Library]]
 ![[Pasted image 20261013105642.png]]
 
+![[Pasted image 20261022211234.png]]

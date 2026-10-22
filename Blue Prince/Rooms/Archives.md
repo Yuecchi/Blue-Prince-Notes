@@ -18,3 +18,7 @@ Rarity: [[Unusual]]
 Located in the locked draw of the archives
 
 ![[Birth Certificate - Archives]]
+![[Pasted image 20261022220720.png]]
+![[Pasted image 20261022220925.png]]
+![[Pasted image 20261022221122.png]]
+![[Pasted image 20261022221203.png]]

@@ -6,3 +6,4 @@ Type: [[Blueprint]], [[Addition]]
 Rarity: [[Standard]]
 
 ![[Castle Puzzle - Kennel]]
+![[Pasted image 20261022210147.png]]

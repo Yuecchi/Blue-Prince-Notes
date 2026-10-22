@@ -8,3 +8,4 @@ The main centralized heat source for the estate. You may find yourself starting 
 
 Type: [[Red Room]], [[Dead End]]
 Rarity: [[Rare]]
+

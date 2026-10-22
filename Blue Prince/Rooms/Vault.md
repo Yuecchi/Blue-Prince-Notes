@@ -25,3 +25,9 @@ Rarity: [[Rare]]
 
 ![[Chess Piece - Rook]]
 ![[Pasted image 20261022151453.png]]
+
+![[Pasted image 20261022225002.png]]
+![[Pasted image 20261022225122.png]]
+![[Pasted image 20261022225214.png]]
+![[Pasted image 20261022225301.png]]
+![[Pasted image 20261022225320.png]]

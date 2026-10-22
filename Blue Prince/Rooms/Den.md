@@ -9,3 +9,5 @@ A more traditional family room, warm and inviting. So comfortable, one might ass
 
 Type: [[Blueprint]]
 Rarity: [[Commonplace]]
+
+![[Pasted image 20261022222728.png]]

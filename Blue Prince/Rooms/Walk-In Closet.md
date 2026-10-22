@@ -10,3 +10,4 @@ Found: 2 [[Gem]]s, [[Salt Shaker]], [[Coupon Book]], [[Key]], [[Car Keys]], [[Te
 Cost: 1 [[Gem]]
 Type: [[Blueprint]], [[Dead End]]
 Rarity: [[Standard]]
+![[Pasted image 20261022200750.png]]

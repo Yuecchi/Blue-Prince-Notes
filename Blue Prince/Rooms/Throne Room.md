@@ -8,3 +8,5 @@ The former seat of power of Orinda Aries before the current era and the rise of 
 Cost: 5 gems
 Type: [[Blackprint]], [[Addition]]
 Rarity: [[Rare]]
+
+![[Pasted image 20261022222924.png]]

@@ -26,4 +26,4 @@ Letters are answers to 44 letter picture puzzle found in the [[Study]]
 
 ![[Music Sheet (8) - Workshop]]
 
-![[Pasted image 20261012203029.png]]
+![[Pasted image 20261012203029.png]]![[Pasted image 20261022215621.png]]
