@@ -1,1 +1,0 @@
-Was selling moonshine with Denny

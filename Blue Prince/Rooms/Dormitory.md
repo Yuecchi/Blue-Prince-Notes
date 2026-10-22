@@ -7,4 +7,4 @@ These small sleeping quarters, devoid of frills and distractions, are ideal for 
 Type: [[Entry]], [[Bedroom]], [[Dead End]], [[Addition]]
 Rarity: [[Standard]]
 
-[[Drafting Strategy Architectural Digest (Vol. 2)]]
+[[Book - Drafting Strategy Architectural Digest (Vol. 2)]]

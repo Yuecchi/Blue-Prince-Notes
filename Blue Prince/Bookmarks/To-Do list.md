@@ -1,10 +1,12 @@
+- Solve the '[Family Core](Family%20Core.canvas)' Puzzle
+	- Find more 'blank books' to douse with 'still water' 
 - Send power from the [[Boiler Room]] to the [[Sauna]]
-- use the [[Burning Glass]] inside the [[Freezer]].
-- find the blue door(s)
-- collect more [[Blue Tents]] notes
-- Check the [[Safehouse]] for a major key hanging on the wall
-- farm more stars! there's another constellation after 50!
-- Dig in the laundry room in front of the middle dryer
+- Find the blue door(s)
+- Collect more [[Notes - Blue Tents]] notes
+- Check the [[Safehouse]] for a major key hanging on the wall?
+- Collect more stars! there's another constellation after 50!
 
-- Finish more trophies
+- Finish more trophies...
+	- Complete Final Exam (mot urgent)
+
 Day 10 [[Date]]: Nov 16 1993
