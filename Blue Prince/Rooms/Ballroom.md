@@ -15,3 +15,4 @@ Rarity: [[Unusual]]
 
 ![[Sheet Music (7) - Ballroom]]
 
+![[Pasted image 20261023141219.png]]

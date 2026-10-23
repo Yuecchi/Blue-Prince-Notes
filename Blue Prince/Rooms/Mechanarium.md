@@ -6,3 +6,5 @@ An iron vaulted mechanical chamber affixed with motorized panels that can reveal
 
 Type: [[Mechanical]], [[Blueprint]], [[Addition]]
 Rarity: [[Unusual]]
+
+![[Pasted image 20261023141017.png]]

@@ -1,6 +1,6 @@
 Rank 8 drafted but no note: [[Aquarium]]
 
-Rank 8 notes: [[Pantry]], [[Drawing Room]], [[Office]], [[The Pool]], [[Study]], [[Mail Room]], [[Observatory]], [[Room 8]], [[Vault]], [[Clock Tower]],  [[Wine Cellar]], [[Chamber of Mirrors]], [[Security]], [[Boiler Room]], [[Dining Room]], [[Dovecote]], [[Drafting Studio]], [[Sauna]], [[Laboratory]], [[Trophy Room]], [[Attic]], [[Conference Room]], [[Pump Room]], [[Music Room]], [[Walk-In Closet]], [[Freezer]], [[Utility Closet]], [[Planetarium]],  [[Rotunda]], [[Closet]], [[The Kennel]], [[Library]], [[Aquarium]], [[Grade 1]], [[Grade 3]], [[Grade 4]], [[Grade 8]], [[Final Exam]], [[Locker Room]], [[Workshop]], [[Den]], [[Throne Room]], [[Gallery]], 
+Rank 8 notes: [[Pantry]], [[Drawing Room]], [[Office]], [[The Pool]], [[Study]], [[Mail Room]], [[Observatory]], [[Room 8]], [[Vault]], [[Clock Tower]],  [[Wine Cellar]], [[Chamber of Mirrors]], [[Security]], [[Boiler Room]], [[Dining Room]], [[Dovecote]], [[Drafting Studio]], [[Sauna]], [[Laboratory]], [[Trophy Room]], [[Attic]], [[Conference Room]], [[Pump Room]], [[Music Room]], [[Walk-In Closet]], [[Freezer]], [[Utility Closet]], [[Planetarium]],  [[Rotunda]], [[Closet]], [[The Kennel]], [[Library]], [[Aquarium]], [[Grade 1]], [[Grade 3]], [[Grade 4]], [[Grade 8]], [[Final Exam]], [[Locker Room]], [[Workshop]], [[Den]], [[Throne Room]], [[Gallery]], [[Mechanarium]], [[Ballroom]], [[Garage]], 
 
 ![[Pasted image 20261021234233.png|215]]![[Pasted image 20261022114535.png|237]]![[Pasted image 20261022114742.png|229]]
 ![[Pasted image 20261022125728.png|215]]![[Pasted image 20261022132803.png|199]]![[Pasted image 20261022134902.png|220]]
@@ -16,4 +16,5 @@ Rank 8 notes: [[Pantry]], [[Drawing Room]], [[Office]], [[The Pool]], [[Study]],
 ![[Pasted image 20261022211218.png|326]]![[Pasted image 20261022211811.png|345]]
 ![[Pasted image 20261022212716.png|325]]![[Pasted image 20261022215603.png|371]]
 ![[Pasted image 20261022222735.png|327]]![[Pasted image 20261022223001.png|355]]
-![[Pasted image 20261022223218.png|327]]
+![[Pasted image 20261022223218.png|327]]![[Pasted image 20261023140958.png|361]]
+![[Pasted image 20261023141147.png|326]]![[Pasted image 20261023141339.png|346]]
